@@ -1,0 +1,22 @@
+﻿<Window x:Class="Zadaca_IV.Window9"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zadaca_IV"
+        mc:Ignorable="d"
+        Title="Window9" Height="450" Width="800">
+    <Grid Background="#FF56CB4A">
+        <MediaElement x:Name="video" HorizontalAlignment="Left" Height="348.019" Margin="61.191,62.381,0,0" VerticalAlignment="Top" Width="722.409" Source="yt5s.com-We are Number One but it's actually the Instrumental (RIP)-(1080p).mp4" Stretch="UniformToFill" Volume="{Binding Value, ElementName=zvuk}"/>
+        <Rectangle x:Name="nazad" HorizontalAlignment="Left" Height="50" Margin="10,10,0,0" VerticalAlignment="Top" Width="50" Cursor="Hand" MouseLeftButtonDown="nazad_MouseLeftButtonDown">
+            <Rectangle.Effect>
+                <DropShadowEffect BlurRadius="20" Direction="0"/>
+            </Rectangle.Effect>
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="nazad.png"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Slider x:Name="zvuk" HorizontalAlignment="Left" Height="20" Margin="179.835,24.286,0,0" VerticalAlignment="Top" Width="500" Foreground="White" BorderBrush="{x:Null}" Background="{x:Null}"/>
+
+    </Grid>
+</Window>

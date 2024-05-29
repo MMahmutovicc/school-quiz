@@ -1,0 +1,35 @@
+﻿<Window x:Name="window8" x:Class="Zadaca_IV.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zadaca_IV"
+        mc:Ignorable="d"
+        Title="Window2" Height="450" Width="800" KeyDown="window8_KeyDown">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="bosanski.jpg"/>
+        </Grid.Background>
+        <TextBlock x:Name="prvi" HorizontalAlignment="Left" Height="30" Margin="99.021,126.144,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="30" Background="Blue" FontSize="24" FontWeight="Bold" FontFamily="Times New Roman" TextAlignment="Center"/>
+        <TextBlock x:Name="jedan" HorizontalAlignment="Left" Height="30" Margin="157.689,126.144,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" Background="#FF995757" FontSize="20" FontFamily="Times New Roman" FontWeight="Bold" TextAlignment="Center"/>
+        <TextBlock x:Name="naslov" HorizontalAlignment="Left" Height="85" Margin="194.133,17.044,0,0" TextWrapping="Wrap" Text="Spojite književnike i njihova djela:" VerticalAlignment="Top" Width="400" FontSize="36" FontWeight="Bold" FontFamily="Times New Roman" TextAlignment="Center" Background="#FF995757" Foreground="White"/>
+        <TextBlock x:Name="d" HorizontalAlignment="Left" Height="30" Margin="675.021,305.7,0,0" TextWrapping="Wrap" Text="d" VerticalAlignment="Top" Width="30" Background="#FF995757" FontSize="24" FontWeight="Bold" FontFamily="Times New Roman" TextAlignment="Center"/>
+        <TextBlock x:Name="c" HorizontalAlignment="Left" Height="30" Margin="675.021,246.144,0,0" TextWrapping="Wrap" Text="c" VerticalAlignment="Top" Width="30" Background="#FF995757" FontSize="24" FontWeight="Bold" FontFamily="Times New Roman" TextAlignment="Center"/>
+        <TextBlock x:Name="b" HorizontalAlignment="Left" Height="30" Margin="675.021,183.033,0,0" TextWrapping="Wrap" Text="b" VerticalAlignment="Top" Width="30" Background="#FF995757" FontSize="24" FontWeight="Bold" FontFamily="Times New Roman" TextAlignment="Center"/>
+        <TextBlock x:Name="a" HorizontalAlignment="Left" Height="30" Margin="675.021,126.144,0,0" TextWrapping="Wrap" Text="a" VerticalAlignment="Top" Width="30" Background="#FF995757" FontSize="24" FontWeight="Bold" FontFamily="Times New Roman" TextAlignment="Center"/>
+        <TextBlock x:Name="cetvrti" HorizontalAlignment="Left" Height="30" Margin="99.021,305.7,0,0" TextWrapping="Wrap" Text="4" VerticalAlignment="Top" Width="30" Background="Yellow" FontSize="24" FontWeight="Bold" FontFamily="Times New Roman" TextAlignment="Center"/>
+        <TextBlock x:Name="treci" HorizontalAlignment="Left" Height="30" Margin="99.021,246.144,0,0" TextWrapping="Wrap" Text="3" VerticalAlignment="Top" Width="30" Background="Green" FontSize="24" FontWeight="Bold" FontFamily="Times New Roman" TextAlignment="Center"/>
+        <TextBlock x:Name="drugi" HorizontalAlignment="Left" Height="30" Margin="99.021,183.033,0,0" TextWrapping="Wrap" Text="2" VerticalAlignment="Top" Width="30" Background="Red" FontSize="24" FontWeight="Bold" FontFamily="Times New Roman" TextAlignment="Center"/>
+        <TextBlock x:Name="osam" HorizontalAlignment="Left" Height="30" Margin="452.801,305.7,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" Background="#FF995757" FontSize="20" FontFamily="Times New Roman" FontWeight="Bold" TextAlignment="Center"/>
+        <TextBlock x:Name="sest" HorizontalAlignment="Left" Height="30" Margin="452.801,246.144,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" Background="#FF995757" FontSize="20" FontFamily="Times New Roman" FontWeight="Bold" TextAlignment="Center"/>
+        <TextBlock x:Name="cetiri" HorizontalAlignment="Left" Height="30" Margin="452.801,183.033,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" Background="#FF995757" FontSize="20" FontFamily="Times New Roman" FontWeight="Bold" TextAlignment="Center"/>
+        <TextBlock x:Name="dva" HorizontalAlignment="Left" Height="30" Margin="452.801,126.144,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" Background="#FF995757" FontSize="20" FontFamily="Times New Roman" FontWeight="Bold" TextAlignment="Center"/>
+        <TextBlock x:Name="sedam" HorizontalAlignment="Left" Height="30" Margin="157.689,305.7,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" Background="#FF995757" FontSize="20" FontFamily="Times New Roman" FontWeight="Bold" TextAlignment="Center"/>
+        <TextBlock x:Name="pet" HorizontalAlignment="Left" Height="30" Margin="157.689,246.144,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" Background="#FF995757" FontSize="20" FontFamily="Times New Roman" FontWeight="Bold" TextAlignment="Center"/>
+        <TextBlock x:Name="tri" HorizontalAlignment="Left" Height="30" Margin="157.689,183.033,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" Background="#FF995757" FontSize="20" FontFamily="Times New Roman" FontWeight="Bold" TextAlignment="Center"/>
+        <Button x:Name="gen" Content="Generiši" HorizontalAlignment="Left" Height="50" Margin="39.467,35.822,0,0" VerticalAlignment="Top" Width="120" Background="#FF995757" FontWeight="Bold" FontFamily="Times New Roman" FontSize="18" Click="gen_Click"/>
+        <Button x:Name="prov" Content="Provjeri" HorizontalAlignment="Left" Height="50" Margin="626.134,35.822,0,0" VerticalAlignment="Top" Width="120" Background="#FF995757" FontWeight="Bold" FontFamily="Times New Roman" FontSize="18" Click="prov_Click" Visibility="Hidden"/>
+        <TextBlock x:Name="rezultat" HorizontalAlignment="Left" Height="50" Margin="194.133,352.933,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="400" Foreground="White" FontSize="24" FontFamily="Times New Roman" FontWeight="Bold" TextAlignment="Center"/>
+        <Button x:Name="pocetna" Content="Početna" HorizontalAlignment="Left" Height="50" Margin="626.134,352.933,0,0" VerticalAlignment="Top" Width="120" Background="#FF995757" FontWeight="Bold" FontFamily="Times New Roman" FontSize="18" Click="pocetna_Click" Visibility="Hidden"/>
+    </Grid>
+</Window>

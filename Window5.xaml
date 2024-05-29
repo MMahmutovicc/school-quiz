@@ -1,0 +1,30 @@
+﻿<Window x:Class="Zadaca_IV.Window5"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zadaca_IV"
+        mc:Ignorable="d"
+        Title="Window5" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="bonus.jpg"/>
+        </Grid.Background>
+        <MediaElement HorizontalAlignment="Left" Height="350" Margin="91.081,44.459,0,0" VerticalAlignment="Top" Width="580" Source="yt5s.com-Rick Astley - Never Gonna Give You Up (Official Music Video)-(1080p).mp4"/>
+        <Rectangle x:Name="pocetak" HorizontalAlignment="Left" Height="50" Margin="733.6,360.4,0,0" VerticalAlignment="Top" Width="50" MouseLeftButtonDown="pocetak_MouseLeftButtonDown" Cursor="Hand">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="nazad.png">
+                    <ImageBrush.RelativeTransform>
+                        <TransformGroup>
+                            <ScaleTransform CenterY="0.5" CenterX="0.5"/>
+                            <SkewTransform CenterY="0.5" CenterX="0.5"/>
+                            <RotateTransform Angle="180" CenterY="0.5" CenterX="0.5"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </ImageBrush.RelativeTransform>
+                </ImageBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+
+    </Grid>
+</Window>

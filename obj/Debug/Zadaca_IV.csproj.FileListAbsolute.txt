@@ -1,0 +1,70 @@
+C:\Users\user\OneDrive\Desktop\IV web tehnologije\Zadaca_IV\bin\Debug\Zadaca_IV.exe.config
+C:\Users\user\OneDrive\Desktop\IV web tehnologije\Zadaca_IV\bin\Debug\Zadaca_IV.exe
+C:\Users\user\OneDrive\Desktop\IV web tehnologije\Zadaca_IV\bin\Debug\Zadaca_IV.pdb
+C:\Users\user\OneDrive\Desktop\IV web tehnologije\Zadaca_IV\obj\Debug\Zadaca_IV.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\IV web tehnologije\Zadaca_IV\obj\Debug\MainWindow.g.cs
+C:\Users\user\OneDrive\Desktop\IV web tehnologije\Zadaca_IV\obj\Debug\App.g.cs
+C:\Users\user\OneDrive\Desktop\IV web tehnologije\Zadaca_IV\obj\Debug\Zadaca_IV_MarkupCompile.cache
+C:\Users\user\OneDrive\Desktop\IV web tehnologije\Zadaca_IV\obj\Debug\Zadaca_IV_MarkupCompile.lref
+C:\Users\user\OneDrive\Desktop\IV web tehnologije\Zadaca_IV\obj\Debug\MainWindow.baml
+C:\Users\user\OneDrive\Desktop\IV web tehnologije\Zadaca_IV\obj\Debug\Zadaca_IV.g.resources
+C:\Users\user\OneDrive\Desktop\IV web tehnologije\Zadaca_IV\obj\Debug\Zadaca_IV.Properties.Resources.resources
+C:\Users\user\OneDrive\Desktop\IV web tehnologije\Zadaca_IV\obj\Debug\Zadaca_IV.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\IV web tehnologije\Zadaca_IV\obj\Debug\Zadaca_IV.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\IV web tehnologije\Zadaca_IV\obj\Debug\Zadaca_IV.exe
+C:\Users\user\OneDrive\Desktop\IV web tehnologije\Zadaca_IV\obj\Debug\Zadaca_IV.pdb
+C:\Users\user\OneDrive\Desktop\IV web tehnologije\Zadaca_IV\obj\Debug\Window1.g.cs
+C:\Users\user\OneDrive\Desktop\IV web tehnologije\Zadaca_IV\obj\Debug\Window1.baml
+C:\Users\user\OneDrive\Desktop\IV web tehnologije\Zadaca_IV\obj\Debug\Window2.g.cs
+C:\Users\user\OneDrive\Desktop\IV web tehnologije\Zadaca_IV\obj\Debug\Window2.baml
+C:\Users\user\OneDrive\Desktop\IV web tehnologije\Zadaca_IV\obj\Debug\Window3.g.cs
+C:\Users\user\OneDrive\Desktop\IV web tehnologije\Zadaca_IV\obj\Debug\Window4.g.cs
+C:\Users\user\OneDrive\Desktop\IV web tehnologije\Zadaca_IV\obj\Debug\Window6.g.cs
+C:\Users\user\OneDrive\Desktop\IV web tehnologije\Zadaca_IV\obj\Debug\Window3.baml
+C:\Users\user\OneDrive\Desktop\IV web tehnologije\Zadaca_IV\obj\Debug\Window4.baml
+C:\Users\user\OneDrive\Desktop\IV web tehnologije\Zadaca_IV\obj\Debug\Window6.baml
+C:\Users\user\OneDrive\Desktop\IV web tehnologije\Zadaca_IV\bin\Debug\yt5s.com-We are Number One but it's actually the Instrumental (RIP)-(1080p).mp4
+C:\Users\user\OneDrive\Desktop\IV web tehnologije\Zadaca_IV\obj\Debug\Zadaca_IV_Content.g.cs
+C:\Users\user\OneDrive\Desktop\IV web tehnologije\Zadaca_IV\obj\Debug\Window8.g.cs
+C:\Users\user\OneDrive\Desktop\IV web tehnologije\Zadaca_IV\obj\Debug\Window8.baml
+C:\Users\user\OneDrive\Desktop\IV web tehnologije\Zadaca_IV\obj\Debug\Window9.g.cs
+C:\Users\user\OneDrive\Desktop\IV web tehnologije\Zadaca_IV\obj\Debug\Window9.baml
+C:\Users\user\OneDrive\Desktop\IV web tehnologije\Zadaca_IV\bin\Debug\yt5s.com-We are number ONE _ instrumental 1 HOUR-(480p).mp4
+C:\Users\user\OneDrive\Desktop\IV web tehnologije\Zadaca_IV\bin\Debug\yt5s.com-Rick Astley - Never Gonna Give You Up (Official Music Video)-(1080p).mp4
+C:\Users\user\OneDrive\Desktop\IV web tehnologije\Zadaca_IV\obj\Debug\Window5.g.cs
+C:\Users\user\OneDrive\Desktop\IV web tehnologije\Zadaca_IV\obj\Debug\Window5.baml
+C:\Users\mirza\Desktop\Škola\IV web tehnologije\Zadace - web tehnologije\Zadaca - blend\bin\Debug\yt5s.com-Rick Astley - Never Gonna Give You Up (Official Music Video)-(1080p).mp4
+C:\Users\mirza\Desktop\Škola\IV web tehnologije\Zadace - web tehnologije\Zadaca - blend\bin\Debug\yt5s.com-We are number ONE _ instrumental 1 HOUR-(480p).mp4
+C:\Users\mirza\Desktop\Škola\IV web tehnologije\Zadace - web tehnologije\Zadaca - blend\bin\Debug\yt5s.com-We are Number One but it's actually the Instrumental (RIP)-(1080p).mp4
+C:\Users\mirza\Desktop\Škola\IV web tehnologije\Zadace - web tehnologije\Zadaca - blend\bin\Debug\Zadaca_IV.exe.config
+C:\Users\mirza\Desktop\Škola\IV web tehnologije\Zadace - web tehnologije\Zadaca - blend\bin\Debug\Zadaca_IV.exe
+C:\Users\mirza\Desktop\Škola\IV web tehnologije\Zadace - web tehnologije\Zadaca - blend\bin\Debug\Zadaca_IV.pdb
+C:\Users\mirza\Desktop\Škola\IV web tehnologije\Zadace - web tehnologije\Zadaca - blend\obj\Debug\Zadaca_IV.csproj.AssemblyReference.cache
+C:\Users\mirza\Desktop\Škola\IV web tehnologije\Zadace - web tehnologije\Zadaca - blend\obj\Debug\MainWindow.g.cs
+C:\Users\mirza\Desktop\Škola\IV web tehnologije\Zadace - web tehnologije\Zadaca - blend\obj\Debug\Window1.g.cs
+C:\Users\mirza\Desktop\Škola\IV web tehnologije\Zadace - web tehnologije\Zadaca - blend\obj\Debug\Window2.g.cs
+C:\Users\mirza\Desktop\Škola\IV web tehnologije\Zadace - web tehnologije\Zadaca - blend\obj\Debug\Window3.g.cs
+C:\Users\mirza\Desktop\Škola\IV web tehnologije\Zadace - web tehnologije\Zadaca - blend\obj\Debug\Window4.g.cs
+C:\Users\mirza\Desktop\Škola\IV web tehnologije\Zadace - web tehnologije\Zadaca - blend\obj\Debug\Window5.g.cs
+C:\Users\mirza\Desktop\Škola\IV web tehnologije\Zadace - web tehnologije\Zadaca - blend\obj\Debug\Window6.g.cs
+C:\Users\mirza\Desktop\Škola\IV web tehnologije\Zadace - web tehnologije\Zadaca - blend\obj\Debug\Window8.g.cs
+C:\Users\mirza\Desktop\Škola\IV web tehnologije\Zadace - web tehnologije\Zadaca - blend\obj\Debug\Window9.g.cs
+C:\Users\mirza\Desktop\Škola\IV web tehnologije\Zadace - web tehnologije\Zadaca - blend\obj\Debug\App.g.cs
+C:\Users\mirza\Desktop\Škola\IV web tehnologije\Zadace - web tehnologije\Zadaca - blend\obj\Debug\Zadaca_IV_Content.g.cs
+C:\Users\mirza\Desktop\Škola\IV web tehnologije\Zadace - web tehnologije\Zadaca - blend\obj\Debug\Zadaca_IV_MarkupCompile.cache
+C:\Users\mirza\Desktop\Škola\IV web tehnologije\Zadace - web tehnologije\Zadaca - blend\obj\Debug\Zadaca_IV_MarkupCompile.lref
+C:\Users\mirza\Desktop\Škola\IV web tehnologije\Zadace - web tehnologije\Zadaca - blend\obj\Debug\MainWindow.baml
+C:\Users\mirza\Desktop\Škola\IV web tehnologije\Zadace - web tehnologije\Zadaca - blend\obj\Debug\Window1.baml
+C:\Users\mirza\Desktop\Škola\IV web tehnologije\Zadace - web tehnologije\Zadaca - blend\obj\Debug\Window2.baml
+C:\Users\mirza\Desktop\Škola\IV web tehnologije\Zadace - web tehnologije\Zadaca - blend\obj\Debug\Window3.baml
+C:\Users\mirza\Desktop\Škola\IV web tehnologije\Zadace - web tehnologije\Zadaca - blend\obj\Debug\Window4.baml
+C:\Users\mirza\Desktop\Škola\IV web tehnologije\Zadace - web tehnologije\Zadaca - blend\obj\Debug\Window5.baml
+C:\Users\mirza\Desktop\Škola\IV web tehnologije\Zadace - web tehnologije\Zadaca - blend\obj\Debug\Window6.baml
+C:\Users\mirza\Desktop\Škola\IV web tehnologije\Zadace - web tehnologije\Zadaca - blend\obj\Debug\Window8.baml
+C:\Users\mirza\Desktop\Škola\IV web tehnologije\Zadace - web tehnologije\Zadaca - blend\obj\Debug\Window9.baml
+C:\Users\mirza\Desktop\Škola\IV web tehnologije\Zadace - web tehnologije\Zadaca - blend\obj\Debug\Zadaca_IV.g.resources
+C:\Users\mirza\Desktop\Škola\IV web tehnologije\Zadace - web tehnologije\Zadaca - blend\obj\Debug\Zadaca_IV.Properties.Resources.resources
+C:\Users\mirza\Desktop\Škola\IV web tehnologije\Zadace - web tehnologije\Zadaca - blend\obj\Debug\Zadaca_IV.csproj.GenerateResource.cache
+C:\Users\mirza\Desktop\Škola\IV web tehnologije\Zadace - web tehnologije\Zadaca - blend\obj\Debug\Zadaca_IV.csproj.CoreCompileInputs.cache
+C:\Users\mirza\Desktop\Škola\IV web tehnologije\Zadace - web tehnologije\Zadaca - blend\obj\Debug\Zadaca_IV.exe
+C:\Users\mirza\Desktop\Škola\IV web tehnologije\Zadace - web tehnologije\Zadaca - blend\obj\Debug\Zadaca_IV.pdb
